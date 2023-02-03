@@ -9,7 +9,6 @@
     --mere-black: rgba(0, 0, 0, 0.05);
 
 }
-
 body {
     font-family: 'Inter', sans-serif;
     background-color: var(--bg-grey);
@@ -17,9 +16,6 @@ body {
     margin: 0;
     display: flex;
 }
-
-
-
 /* ----------All Classes----------- */
 .flex-inline {
     display: flex;
@@ -102,7 +98,8 @@ li::before {
     width: 200px;
     position: fixed;
     left: 0;
-    min-height: 100vh;
+    bottom: 0;
+    top: 0;
     border-right: 1px var(--lighter-grey) solid;
 }
 /* ----------Upper Nav----------- */
