@@ -154,22 +154,22 @@ input:focus {
 /* ----------Article Container----------- */
 .article-container {
     position: fixed;
-    height: 100%;
+    bottom: 0;
     left: 240px;
     top: 80px;
     right: 290px;
     padding: 40px 20px;
     display: grid;
-    grid-template-rows: 60px 1fr;
-
-   
+    grid-template-rows: 60px 1fr; 
 }
 .article-headings {
     grid-auto-rows: 1 / span 1;
 }
 .article-holder {
     grid-auto-rows: 2 / span 1;
-    background-color: bisque;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    overflow-y: scroll;
 }
 .article-headings {
     justify-content: space-between;
@@ -180,4 +180,10 @@ input:focus {
 a {
     text-decoration: none;
     color: var(--pure-black);
+}
+.article-holder div {
+    background-color: violet;
+    height: 320px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
