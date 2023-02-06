@@ -6,8 +6,8 @@
 <div align="center">
  
   [![Website Status](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://ad-v1.vercel.app/)
-  [![Downloads](https://img.shields.io/github/downloads/{DebasishSahoo10}/{admin-dashboard}/total.svg)]()
-  [![Forks](https://img.shields.io/github/forks/{username}/{repo-name}.svg)]()
+  [![Stars](https://img.shields.io/github/stars/DebasishSahoo10/admin-dashboard.svg)]()
+  [![Forks](https://img.shields.io/github/forks/DebasishSahoo10/admin-dashboard.svg)]()
 
 </div>
 
