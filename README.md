@@ -31,16 +31,15 @@ The Design is a comibination 3 different Figma Files coming from 3 different des
 - [ByeWind](https://www.figma.com/@byewind)
 - [Xiaonail](https://www.figma.com/community/file/1166260763152868771)
 - [Collins Donye](https://dribbble.com/iamcollinsdonye/about)
+
+## 🎈 Future Versions
+In the near Future I will be adding a lot of features and some are already planned as of now :
+- Hover Effects on the link, cards and buttons
+- Login Page and User Profiles
+- As of now this is has limited resposnsiveness for desktop and all sort of laptop screens, soon will add for mobile and tablet screens.
+- User events and Clickable Icons
 ## 🤜🤛 Connect with me
-If you have any queries regarding the project or have some suggestions, feel free to connect with me on my social links given below :
+Thank you for checking this project out. If you have any queries regarding the project or have some suggestions, feel free to connect with me on my social links given below :
 
 [![Twitter Link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dddddddeeeeevvv)
 [![Linkedin Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasishsahoo1998)
-
-
-
-
-
-
-
-future versions - future features
