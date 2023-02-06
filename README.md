@@ -16,7 +16,7 @@
 This Project has been done during the Intermediate Course of The Odin Project (a free resource to learn web-dev). The main goal of this personal project is to have a good hand at major CSS display properties (Grid and Flex) and Layouting a complex web-page. this repo is hosted using Vercel and see the live-project click on the link in About section of the repo.
 
 ## 🏁 Getting Started
-To get your own copy of the Project (for any reason you want or just to try and see some changes) : Fork the repo. Open the repo then in your choice of code editor and then assign the "index.html" a local network port and then open that port in your Browser. If you are using VSCode, then it will be much easier, just install the plugin named "Live Server" and you are good to go.
+To get your own copy of the Project (for any reason you want or just to try and see some changes) : Fork the repo. Open the repo then in your choice of code editor and then assign the `index.html` a local network port and then open that port in your Browser. If you are using VSCode, then it will be much easier, just install the plugin named `Live Server` and you are good to go.
 
 ## 🚀 Features
 - **Auto Grid Layout for the Main Dashboard** (which makes cards section resposnsive based on the number of cards given)
