@@ -21,7 +21,13 @@ This Project has been done during the Intermediate Course of The Odin Project (a
 - **Overflow Scrolls** (for both the card-section and side-bars)
 - **Custom Scrollbars** (for a minimal look and least possible distraction from the main content)
 
-Notes : Right now this project is more like on Version (1), I will be adding a lot of other features and functionalities in the future. So have a eye on the repo.
+Note : Right now this project is more like on Version (1), I will be adding a lot of other features and functionalities in the future. So have a eye on the repo.
+
+## ✍️ Design and Credits
+The Design is a comibination 3 different Figma Files coming from 3 different designers (all their links are listed). I wanted the design to be simple yet feature-loaded so ended up combining them.
+- [ByeWind](https://www.figma.com/@byewind)
+- [Xiaonail](https://www.figma.com/community/file/1166260763152868771)
+- [Collins Donye](https://dribbble.com/iamcollinsdonye/about)
 ## 🤜🤛 Connect with me
 If you have any queries regarding the project or have some suggestions, feel free to connect with me on my social links given below :
 
@@ -33,8 +39,6 @@ If you have any queries regarding the project or have some suggestions, feel fre
 
 
 
-all the features
-version (current situation of project)
+
 future versions - future features
 description for forkers
-deisgn files and credits
