@@ -1,11 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=50px height=50px src="assets\icons8-done-48.png" alt="Project logo"></a>
+ <img width=40px height=40px src="assets\icons8-done-48.png" alt="Project logo"></a>
 </p>
 
 
 
-<h1 align="center">Admin Dashboard</h1>
+<h2 align="center">Admin Dashboard</h2>
 <div align="center">
  
   [![Website Status](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://ad-v1.vercel.app/)
