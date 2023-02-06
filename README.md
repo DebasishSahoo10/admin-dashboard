@@ -8,8 +8,9 @@
 <h1 align="center">Admin Dashboard</h1>
 <div align="center">
  
-  [![Made with love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
   [![Website Status](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://ad-v1.vercel.app/)
+  [![Downloads](https://img.shields.io/github/downloads/{DebasishSahoo10}/{admin-dashboard}/total.svg)]()
+  [![Forks](https://img.shields.io/github/forks/{username}/{repo-name}.svg)]()
 
 </div>
 
