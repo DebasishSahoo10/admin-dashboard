@@ -1,10 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
  <img width=40px height=40px src="assets\icons8-done-48.png" alt="Project logo"></a>
-</p>
-
-
-
+</p> 
 <h2 align="center">Admin Dashboard</h2>
 <div align="center">
  
@@ -14,6 +11,9 @@
 
 </div>
 
+
+## 🧐 About
+This Project has been done during the Intermediate Course of The Odin Project (a free resource to learn web-dev). The main goal of this personal project is to have a good hand at major CSS display properties (Grid and Flex) and Layouting a complex web-page. this repo is hosted using Vercel and see the live-project click on the link in About section of the repo.
 ## 🤜🤛 Connect with me
 If you have any queries regarding the project or have some suggestions, feel free to connect with me on my social links given below :
 
@@ -24,7 +24,7 @@ If you have any queries regarding the project or have some suggestions, feel fre
 
 
 
-fix file sources
+
 all the features
 version (current situation of project)
 future versions - future features
