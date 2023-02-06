@@ -16,11 +16,12 @@
 This Project has been done during the Intermediate Course of The Odin Project (a free resource to learn web-dev). The main goal of this personal project is to have a good hand at major CSS display properties (Grid and Flex) and Layouting a complex web-page. this repo is hosted using Vercel and see the live-project click on the link in About section of the repo.
 
 ## 🚀 Features
-- <span style="color: #58a6ff">**Auto Grid Layout for the Main Dashboard**</span> (which makes cards section resposnsive based on the number of cards given)
-- <span style="color: #58a6ff">**Fixed Side-bars and Navigation**</span> (so that major links and routes are always visible to the users)
-- <span style="color: #58a6ff">**Overflow Scrolls**</span> (for both the card-section and side-bars)
-- <span style="color: #58a6ff">**Custom Scrollbars**</span> (for a minimal look and least possible distraction from the main content)
+- **Auto Grid Layout for the Main Dashboard** (which makes cards section resposnsive based on the number of cards given)
+- **Fixed Side-bars and Navigation** (so that major links and routes are always visible to the users)
+- **Overflow Scrolls** (for both the card-section and side-bars)
+- **Custom Scrollbars** (for a minimal look and least possible distraction from the main content)
 
+Notes : Right now this project is more like on Version (1), I will be adding a lot of other features and functionalities in the future. So have a eye on the repo.
 ## 🤜🤛 Connect with me
 If you have any queries regarding the project or have some suggestions, feel free to connect with me on my social links given below :
 
